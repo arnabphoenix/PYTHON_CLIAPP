@@ -16,12 +16,12 @@ setup(
             'inferctl=inferctl:main'
         ]
     },
-    author='Your Name',
-    author_email='your.email@example.com',
+    author='Arnab',
+    author_email='m22cs053@iitj.ac.in',
     description='A CLI app for model inference',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url='https://github.com/yourusername/inferctl',  # Replace with your GitHub URL
+    url='https://github.com/arnabphoenix', 
     classifiers=[
         'Programming Language :: Python :: 3',
         'License :: OSI Approved :: MIT License',
